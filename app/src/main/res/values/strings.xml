@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Event</string>
+    <string name="next">Next</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">1005211589872-bg8a9dq1hids44jghfcvur9oqgnkssem.apps.googleusercontent.com</string>
+</resources>
